@@ -1,6 +1,6 @@
 <p align="center">
-	<img src="https://laravel.com/assets/img/components/logo-laravel.svg">
-	<img src="https://silentbedlam.gallerycdn.vsassets.io/extensions/silentbedlam/vuejs-jquery-bootstrapprojecttemplate/1.0/1491418503089/257278/1/thumbnail.png">
+	<img src="https://laravel.com/assets/img/components/logo-laravel.svg" height="200px" width="auto">
+	<img src="https://silentbedlam.gallerycdn.vsassets.io/extensions/silentbedlam/vuejs-jquery-bootstrapprojecttemplate/1.0/1491418503089/257278/1/thumbnail.png" height="200px" width="auto">
 </p>
 
 
