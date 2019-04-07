@@ -10,6 +10,7 @@
 - settting how to laravel can access your database in DB section
 - open your terminal
 - composer install
+- php artisan migrate
 - npm install
 - npm run dev 
 - php artisan serve
